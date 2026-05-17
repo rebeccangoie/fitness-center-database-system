@@ -1,4 +1,3 @@
-# fitness-center-database-system
 # Fitness Center Database System
 
 A full-cycle relational database designed and implemented for a NYC personal training center. The system replaces a fragmented Excel/Google Calendar workflow with a normalized relational database and a functional MS Access application.
